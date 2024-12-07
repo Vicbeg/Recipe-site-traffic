@@ -4,6 +4,7 @@ Data analysis and modelling on a fictional data set about a company that creates
 Data set available on kaggle: https://www.kaggle.com/datasets/nourelimane/recipe-site-traffic-2212/data
 
 Analysis performed using Jupyter Notebook (Python) with description and full report contained in the notebook.
+I also included a PowerPoint presentation summarising this work.
 
 # Summary
 

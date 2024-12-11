@@ -20,4 +20,4 @@ The dataset contains recipe id, calories, carbohydrates, sugar, protein, categor
 
 # Conclusion
 
-To have the highest chance of predicting which recipe will lead to high traffic, I recommend deploying the random forest classifier model into production. By implementing this model, we will correctly predict which recipe will lead to high traffic 77% of the time, with most of the failed predictions being high traffic recipes classified as low traffic.
+To have the highest chance of correctly predicting which recipe will lead to high traffic, I recommend deploying the random forest classifier model into production. By implementing this model, we will correctly predict which recipe will lead to high traffic 73% of the time, with most of the failed predictions being high traffic recipes classified as low traffic.
